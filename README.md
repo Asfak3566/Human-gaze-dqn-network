@@ -59,13 +59,7 @@ human-gaze-dqn-network/
 - Convolutional layers to process visual input
 - Fully connected layers to output Q-values for gaze actions
 - Designed to predict human gaze based on environmental stimuli
-
------------------------------------------------------
- License
------------------------------------------------------
-MIT License – see LICENSE file for details.
-
------------------------------------------------------
+  
  Acknowledgments
 -----------------------------------------------------
 - Inspired by research in human gaze prediction and reinforcement learning
